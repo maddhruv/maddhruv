@@ -13,4 +13,4 @@
 - ![ColorsPalette Logo](https://colorspalette.design/logo-16.png) [ColorsPalette.design](https://colorspalette.design/?ref=github) - Color Palettes for your next app, design or art
 - ![The Boilerplates Logo](https://avatars3.githubusercontent.com/u/64769894?s=16&v=4) [The Boilerplates](https://github.com/the-boilerplates) - Town of Boilerplates
 
-### I am learning blog writings here - [maddhruv.github.io](https://maddhruv.github.io)
+### I am learning blog writings here - [maddhruv.xyz](http://maddhruv.xyz)
