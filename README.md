@@ -1,4 +1,4 @@
-## नमस्ते (Namaste), I am [Dhruv Jain](https://maddhruv.github.io)
+## नमस्ते (Namaste), I am [Dhruv Jain](http://maddhruv.xyz/?=github)
 
 [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
