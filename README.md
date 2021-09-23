@@ -7,9 +7,4 @@
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
-### Some of the things I crafted or am crafting:
-
-- ![ColorsPalette Logo](https://colorspalette.design/logo-16.png) [ColorsPalette.design](https://colorspalette.design/?ref=github) - Color Palettes for your next app, design or art
-- ![The Boilerplates Logo](https://avatars3.githubusercontent.com/u/64769894?s=16&v=4) [The Boilerplates](https://github.com/the-boilerplates) - Town of Boilerplates
-
 ### I am learning blog writings here - [maddhruv.xyz](http://maddhruv.xyz)
